@@ -12,5 +12,6 @@
   - [图算法](/Algorithm/Graph/README.md)
     - [广度优先遍历](/Algorithm/Graph/BFS.md)
     - [深度优先遍历](/Algorithm/Graph/DFS.md)
+    - [Dijkstra算法](/Algorithm/Graph/Dijkstra.md)
     - [Prim算法](/Algorithm/Graph/Prim.md)
     - [Kruskal算法](/Algorithm/Graph/Kruskal.md)
