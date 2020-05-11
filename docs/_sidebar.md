@@ -2,7 +2,7 @@
 - [算法](/Algorithm/README.md)
   - [排序算法](/Algorithm/Sort/README.md)
     - [插入排序](/Algorithm/Sort/InsertSort.md)
-    - [选择排序](/Algorithm/Sort/SelectSort.md)
+    - [选择排序](/Algorithm/Sort/SelectionSort.md)
     - [冒泡排序](/Algorithm/Sort/BubbleSort.md)
     - [归并排序](/Algorithm/Sort/MergeSort.md)
     - [希尔排序](/Algorithm/Sort/ShellSort.md)
