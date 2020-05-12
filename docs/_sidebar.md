@@ -15,3 +15,5 @@
     - [Dijkstra算法](/Algorithm/Graph/Dijkstra.md)
     - [Prim算法](/Algorithm/Graph/Prim.md)
     - [Kruskal算法](/Algorithm/Graph/Kruskal.md)
+- [数据结构](/Structure/README.md)
+  - [图](/Structure/Graph.md)
