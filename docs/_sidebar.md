@@ -16,4 +16,8 @@
     - [Prim算法](/Algorithm/Graph/Prim.md)
     - [Kruskal算法](/Algorithm/Graph/Kruskal.md)
 - [数据结构](/Structure/README.md)
+  - [数组](/Structure/Array.md)
+  - [链表](/Structure/List.md)
+  - [栈](/Structure/Stack.md)
+  - [队列](/Structure/Queue.md)
   - [图](/Structure/Graph.md)
